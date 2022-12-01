@@ -1,11 +1,14 @@
 ### rtl simple Egucational Front Page
 
+[Live Project Link](https://maxjn-educationtemplate.pages.dev).
+
 ###### Technologies
 
 - HTML,Css
 - jQuery
 - Bootstrap grids for responsive
 - Swiper slider
+- icomoon
 
 ###### Features
 
@@ -15,6 +18,6 @@
 - cards
 - contact form
 
-###### Picture
+###### Image
 
 ![Index page](assets/img/index.png)
